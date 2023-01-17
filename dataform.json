@@ -1,7 +1,8 @@
-{
-    "defaultSchema": "dataform",
-    "assertionSchema": "dataform_assertions",
-    "warehouse": "bigquery",
-    "defaultDatabase": "dataform-demos",
-    "defaultLocation": "EU"
+{{
+  "warehouse": "bigquery",
+  "defaultSchema": "stack_overflow",
+  "assertionSchema": "stack_assertions",
+  "defaultDatabase": "quantum-pilot-370012",
+  "defaultLocation": "EU"
 }
+    }
