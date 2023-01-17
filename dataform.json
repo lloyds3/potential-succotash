@@ -1,4 +1,4 @@
-{{
+{
   "warehouse": "bigquery",
   "defaultSchema": "stack_overflow",
   "assertionSchema": "stack_assertions",
