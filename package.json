@@ -1,0 +1,6 @@
+{
+  "name": "lloyds-lab-repo",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
